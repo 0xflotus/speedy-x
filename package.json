@@ -1,19 +1,19 @@
 {
   "name": "speedy-x",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "bin": {
-      "spdx": "./index.js"
+    "spdx": "./index.js"
   },
   "author": {
-      "name": "0xflotus"
+    "name": "0xflotus"
   },
   "dependencies": {
     "spdx-license-list": "^5.0.0"
   },
   "license": "BSD-3-Clause",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/0xflotus/speedy-x.git"
+    "type": "git",
+    "url": "https://github.com/0xflotus/speedy-x.git"
   }
 }
