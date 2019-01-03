@@ -18,7 +18,10 @@ Object.keys(spdxLicenseList).forEach((license, idx) =>
 );
 
 rl.question("Which License would you like to apply? ", answer => {
-  if (!spdxLicenseList.hasOwnProperty(answer) && isNaN(parseInt(answer))) {
+  if (
+    (!spdxLicenseList.hasOwnProperty(answer) && isNaN(parseInt(answer))) ||
+    parseInt(answer) > Object.keys(spdxLicenseList).length
+  ) {
     console.error("License not found. Process abort.");
     process.exit(-1);
   }
