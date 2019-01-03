@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const spdxLicenseList = require("spdx-license-list");
 const fs = require("fs");
 const readline = require("readline");
