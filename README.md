@@ -5,4 +5,4 @@ speedy-x is a tool to change your license to a valid SPDX license expression
 `yarn global add speedy-x`
 
 ## Usage
-navigate to your project directory, where your `pacakge.json` stays and execute the `spdx` command
+navigate to your project directory, where your `package.json` stays and execute the `spdx` command
