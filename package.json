@@ -1,6 +1,6 @@
 {
   "name": "speedy-x",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "bin": {
     "spdx": "./index.js"
@@ -9,6 +9,7 @@
     "name": "0xflotus"
   },
   "dependencies": {
+    "chalk": "^2.4.1",
     "spdx-license-list": "^5.0.0"
   },
   "license": "BSD-3-Clause",
