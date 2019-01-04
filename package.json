@@ -13,6 +13,10 @@
     "spdx-license-list": "^5.0.0"
   },
   "license": "BSD-3-Clause",
+  "keywords": [
+    "spdx",
+    "license"
+  ]
   "repository": {
     "type": "git",
     "url": "https://github.com/0xflotus/speedy-x.git"
