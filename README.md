@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/speedy-x.svg)](https://badge.fury.io/js/speedy-x)
+
 # speedy-x
 speedy-x is a tool to change your license to a valid SPDX license expression
 
