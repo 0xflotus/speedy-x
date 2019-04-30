@@ -9,8 +9,8 @@
     "name": "0xflotus"
   },
   "dependencies": {
-    "chalk": "^2.4.1",
-    "spdx-license-list": "^5.0.0"
+    "chalk": "^2.4.2",
+    "spdx-license-list": "^6.0.0"
   },
   "license": "BSD-3-Clause",
   "keywords": [
